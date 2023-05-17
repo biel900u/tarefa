@@ -1,0 +1,17 @@
+.cards{
+    display: flex;
+    justify-content: space-between;
+}
+.card-body{
+    background-color: beige;
+}
+.col-md-4{
+    
+    background-color: beige;
+}
+.text-muted{
+    color: black;
+}
+.card-mb-3{
+    margin-top: 10px;
+}
