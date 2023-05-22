@@ -1,0 +1,141 @@
+header{
+    display: flex;
+}
+#p1{
+    width: 400px;
+    justify-content: flex-start;
+    text-align: left;
+    margin-top: 100px;
+    
+}
+   .livro{
+    display: flex;
+   }
+.hs{
+    text-align: center;
+    margin-top: 50px;
+  padding-left: 30px;
+}
+.ph2{
+    text-align: left;
+    padding-left: 10px;
+    width: 700px;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.h3{
+    text-align: left;
+    margin-bottom: 80px;
+    margin-top: 0px;
+    padding-bottom: 10px;
+    margin-left: 15px;
+    color: aqua;
+}
+.h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    width: 300px;
+    margin-right: 20px;
+   
+}
+
+    
+#p2{
+    padding: 20px;
+    margin-top: -100px;
+    margin-left: 770px;
+    margin-bottom: 100px;
+    background-color: orangered;
+    border-radius: 40px;
+    padding-right: 10px;
+    width: 150px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+}
+#book{
+    position: static; margin-left: 400px;
+}
+/*main*/
+.main-text{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.main-h2{
+    text-align: center;
+    margin-left: 60px;
+    width: 600px;
+}
+
+.main-text{
+    margin-left: 450px;
+}
+/*lista*/
+#lista-h3{
+    text-align: center;
+}
+.lista-ul{
+    text-align: left;
+    margin-left: 740px;
+   
+}
+#p-lista{
+    text-align: center;
+}
+.fa-solid{
+    color: blue
+}
+/*metade*/
+#metade{
+    background-image: linear-gradient(to right, rgb(103, 103, 211),rgb(62, 62, 207));
+    color: white;
+    text-align: center;
+    height: 60px;
+    padding: 70px;
+    padding-right: 700px;
+    padding-left: 700px;
+    width: 500px;
+    
+   
+}
+/**/
+/*Formulario*/
+#fname{
+    width: 300px;
+}
+.container-3{
+    display: block;
+   margin-left: 550px;
+   background-color:white;
+   width: 800px;
+   height: 550px;
+   padding: 40px;
+   margin-top: -30px;
+   border: grey solid 1px;
+}
+#fname{
+    width: 800px;
+    border-radius: 5px;
+    padding: 8px;
+}
+#p3{
+    text-align: center;
+    margin-left: 280px;
+    padding: 20px;
+    background-color: orangered;
+    border-radius: 40px;
+    width: 150px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.form-select{
+    padding: 5px;
+    background-color: rgb(192, 192, 192);
+    border-radius: 20px;
+
+}
+/**/
+/*footer*/
+#imagem-footer{
+    margin-top: 50px;
+}
